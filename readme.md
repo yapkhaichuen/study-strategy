@@ -9,6 +9,10 @@ The API runs locally on:
 http://127.0.0.1:5000/
 ```
 
+The API runs on server:
+```
+https://khaichuenyap.pythonanywhere.com/
+```
 ---
 
 ## Endpoints Overview
